@@ -1,0 +1,132 @@
+{
+  "version": "1.0",
+  "updated": "2026-09-06",
+  "product": "HUBB flavoured in-shell sunflower seeds",
+  "guide_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/",
+  "rules_url": "https://raw.githubusercontent.com/Roshanmahamoodnk/hubb-companion/main/video_review/HUBB_RULES.md",
+  "core_rule": "Husk is waste. Kernel is food. Never depict intact husks eaten like chips.",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Place",
+      "instruction": "Put one in-shell sunflower seed between the teeth.",
+      "source_time_seconds": 21.767,
+      "evidence": "Visible placement; fingers partly obscure the seed.",
+      "image_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/01-place.jpg"
+    },
+    {
+      "step": 2,
+      "action": "Crack",
+      "instruction": "Use a small bite to crack the husk.",
+      "source_time_seconds": 34.867,
+      "evidence": "Visible seed and husk movement at the teeth.",
+      "image_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/02-crack.jpg"
+    },
+    {
+      "step": 3,
+      "action": "Separate",
+      "instruction": "Use tongue and teeth to separate kernel and husk inside the mouth.",
+      "source_time_seconds": 38.5,
+      "evidence": "Internal action is narrated; only subtle external mouth movement is visible.",
+      "image_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/03-separate.jpg"
+    },
+    {
+      "step": 4,
+      "action": "Spit",
+      "instruction": "Bring the husk to the lips and spit it out. Keep and eat only the kernel.",
+      "source_time_seconds": 43.8,
+      "evidence": "Spitting gesture visible and identified by narration. Tiny ejected fragment contents are unresolved.",
+      "image_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/04-spit.jpg"
+    }
+  ],
+  "alternative": "Manual removal of the husk at the lips replaces spitting; it is not an extra sequential step.",
+  "shell_collection": "Husks go into a shell bag; this is HUBB usage guidance, not shown in the tutorial.",
+  "motion": [
+    {
+      "name": "Edited whole sequence",
+      "url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/how-to-eat.gif",
+      "mp4_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/how-to-eat.mp4",
+      "duration_seconds": 8.86,
+      "method": "Forward source excerpts concatenated; crack 1.5x slower, spit 2x slower; not a single uninterrupted cycle."
+    },
+    {
+      "name": "Spit at half speed",
+      "url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/spit-slow.gif",
+      "mp4_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/spit-slow.mp4",
+      "duration_seconds": 3.6,
+      "source_interval_seconds": [
+        42.9,
+        44.7
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "format": "Single sachet",
+      "sachets": 1,
+      "grams_per_sachet": 30,
+      "total_grams": 30,
+      "use": "Open one sealed sachet to snack.",
+      "channels": [
+        "baqala",
+        "supermarket"
+      ],
+      "image_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/packs-sachets.png"
+    },
+    {
+      "format": "Retail case",
+      "sachets": 24,
+      "grams_per_sachet": 30,
+      "total_grams": 720,
+      "use": "Sell sachets individually. Same-flavour case assumed.",
+      "channels": [
+        "traditional retail",
+        "modern retail"
+      ],
+      "image_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/packs-display.png",
+      "image_limit": "Display styling reference only; not a verified 24-unit carton."
+    },
+    {
+      "format": "Travel cup",
+      "sachets": 5,
+      "grams_per_sachet": 30,
+      "total_grams": 150,
+      "use": "Open lid, take one sealed sachet; keep remaining sachets sealed.",
+      "channels": [
+        "supermarket",
+        "petrol station",
+        "travel"
+      ],
+      "image_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/packs-cups.png"
+    },
+    {
+      "format": "Family mix",
+      "sachets": 20,
+      "grams_per_sachet": 30,
+      "total_grams": 600,
+      "flavour_count": 4,
+      "sachets_per_flavour": 5,
+      "use": "Share the sealed sachets.",
+      "channels": [
+        "ecommerce",
+        "modern key accounts"
+      ],
+      "image_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/packs-family.png"
+    },
+    {
+      "format": "Shell bag",
+      "use": "Collect discarded husks only; never put them back into the food sachet or cup.",
+      "image_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/packs-cups.png"
+    }
+  ],
+  "flavours": [
+    "Classic Sea Salt",
+    "Garlic Salt",
+    "Pepper Lime",
+    "Fire Salt"
+  ],
+  "artwork_rule": "Preserve the supplied cream-and-brush packaging artwork exactly. These are design references.",
+  "source_url": "https://www.youtube.com/watch?v=X0nOwz5KMjc",
+  "provenance_url": "https://roshanmahamoodnk.github.io/hubb-companion/video_review/quick-assets/provenance.json",
+  "llm_use": "Read written rules. Inspect linked stills and GIF/video only if supported. Do not claim to have watched media from text or metadata alone."
+}

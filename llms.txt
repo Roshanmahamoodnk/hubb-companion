@@ -1,0 +1,10 @@
+# HUBB eating and packaging reference
+
+> Short reference for flavoured in-shell sunflower seeds. Husk is waste; only the kernel is eaten. Supplied package artwork must remain unchanged.
+
+- [Essential rules](https://roshanmahamoodnk.github.io/hubb-companion/video_review/HUBB_RULES.md): four eating steps, disposal alternative and all package formats.
+- [Visual guide](https://roshanmahamoodnk.github.io/hubb-companion/video_review/): step images, reference GIFs and original package designs.
+- [Image document](https://roshanmahamoodnk.github.io/hubb-companion/video_review/README.md): Markdown with step images, GIFs and packaging.
+- [Structured reference](https://roshanmahamoodnk.github.io/hubb-companion/video_review/reference.json): actions, direct media URLs, package counts and evidence limits.
+
+Read the rules in text-only models. Inspect linked media when supported; do not claim visual review from text alone. References are supplied for each task, not automatically remembered by every model.

@@ -1,0 +1,85 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=X0nOwz5KMjc",
+  "gif_method": "Real source segments concatenated forward; no generated eating motion. Crack slowed 1.5x; spit slowed 2x.",
+  "segments": [
+    {
+      "start": 21.2,
+      "end": 22.9,
+      "time_multiplier": 1,
+      "label": "1  PLACE ONE SEED"
+    },
+    {
+      "start": 34.25,
+      "end": 35.35,
+      "time_multiplier": 1.5,
+      "label": "2  CRACK THE HUSK"
+    },
+    {
+      "start": 37.5,
+      "end": 38.8,
+      "time_multiplier": 1,
+      "label": "3  SEPARATE INSIDE"
+    },
+    {
+      "start": 42.9,
+      "end": 44.7,
+      "time_multiplier": 2,
+      "label": "4  SPIT THE HUSK  -  SLOW"
+    }
+  ],
+  "limits": "Internal separation is narrated, not visible. A tiny pale ejection streak is not enough to identify the husk visually. Bag disposal is HUBB usage guidance; the source has no bag.",
+  "source_title": "How to Eat Unshelled Sunflower Seeds",
+  "creator": "Howcast",
+  "reference_use": "Short reference and analysis excerpts; no commercial reuse licence for third-party footage is granted.",
+  "source_sha256": "170b49960bbb307bbca4f23ad60e320f6d45141be04fb858dd138d3930545398",
+  "published_files": [
+    {
+      "name": "01-place.jpg",
+      "sha256": "2dbc44ce54906a2a386385ab1bdb6e12c3a052945c2979c7987e75886654f59d"
+    },
+    {
+      "name": "02-crack.jpg",
+      "sha256": "d5df094b32e2a7d4ee00413d1b893eb4d7ded7c877e11bba7e287fa92ae37966"
+    },
+    {
+      "name": "03-separate.jpg",
+      "sha256": "86f38cda641b5bd3cf9d3182c2959d9154ad3bad48663b415b298de1855a5728"
+    },
+    {
+      "name": "04-spit.jpg",
+      "sha256": "df43f816ee8dd161b04fcd409c2bcee07a22964d828d53f2f5eff6a548b40ff2"
+    },
+    {
+      "name": "how-to-eat.gif",
+      "sha256": "b3f604ada92ee5925fcd57d73bc25ea5fe2d5584b19580484252ca8d9db7b2a9"
+    },
+    {
+      "name": "spit-slow.gif",
+      "sha256": "e1444e706e142230419149dbc7bbf05aed393ae39b7b75e63f3b5a5fbd8beec6"
+    },
+    {
+      "name": "how-to-eat.mp4",
+      "sha256": "7ec1e4cd9dfc40d8cd8f343fc574f531c5f31044265bb49cda4ff479396092e3"
+    },
+    {
+      "name": "spit-slow.mp4",
+      "sha256": "7fd0d9c4f0c4a647782d191bedb71782b8bd212a566cb7247a485a6b226278fa"
+    },
+    {
+      "name": "packs-cups.png",
+      "sha256": "c9f83482fb2ff1f087e3dede89b3ede33520517839c44cd1e22448765e87f4a4"
+    },
+    {
+      "name": "packs-family.png",
+      "sha256": "65c7976b2b385207dc80734b748d2627963b3b0c2b9aca549b201da1044a21d5"
+    },
+    {
+      "name": "packs-sachets.png",
+      "sha256": "036ad9e1f494f8260fe19c201fd6071ec78debb3c5467ecb3d18886d25a354c6"
+    },
+    {
+      "name": "packs-display.png",
+      "sha256": "0be6abd752967671afaeade2cbc4a33c6f97228b47039294de62837dee65251f"
+    }
+  ]
+}
