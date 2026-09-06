@@ -4,6 +4,8 @@ A bilingual English/Arabic website and visual brand concept for HUBB sunflower s
 
 ## Explore
 
+- [Latest artistic packaging direction — V5](design-v5/index.html): ivory packs, calligraphic branding and painted flavour artwork, including the four sachets, four cup colourways and an ivory family bucket with sachet pictures.
+- [V5 design and packaging brief](briefs/ART_OF_GATHERING_V5.md)
 - [Website](website/index.html)
 - [Brand story and proposed growth pilot](briefs/GROWTH_AND_BRAND_STORY.md)
 - [Packaging and prototype guide](briefs/PACK_ARCHITECTURE_AND_PROTOTYPE.md)
